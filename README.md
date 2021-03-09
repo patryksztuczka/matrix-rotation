@@ -1,4 +1,4 @@
-# matrix-rotation
+# This project aims to create an algorithm that will rotate nxn matrices
 
 # TODO:
  <del>1. Implement rotation of 2x2 matrix</del><br>
