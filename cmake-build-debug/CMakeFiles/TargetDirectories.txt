@@ -1,0 +1,3 @@
+C:/Users/patry/Documents/projects/matrix-rotation/cmake-build-debug/CMakeFiles/matrix_rotation.dir
+C:/Users/patry/Documents/projects/matrix-rotation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patry/Documents/projects/matrix-rotation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
