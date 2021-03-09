@@ -1,7 +1,7 @@
 # matrix-rotation
 
 # TODO:
- <del>1. Implement rotation of 2x2 matrix (done)</del>
- 2. Implement rotation of 3x3 matrix
- 3. Implement rotation of nxn matrix
+ <del>1. Implement rotation of 2x2 matrix</del><br>
+ 2. Implement rotation of 3x3 matrix<br>
+ 3. Implement rotation of nxn matrix<br>
  
